@@ -1,4 +1,4 @@
-package org.scaloid.hello
+package it.gtd.freetether
 
 import com.stericson.RootTools.RootTools
 import com.stericson.RootTools.execution.CommandCapture

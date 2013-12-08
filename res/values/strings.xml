@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="red">Red alert!</string>
-	<string name="app_name">Hello Scaloid! for sbt</string>
+	<string name="app_name">Free Tether</string>
 </resources>
