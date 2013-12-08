@@ -1,8 +1,6 @@
-# Hello Scaloid for sbt
+# Free Tether
 
-This is a template project that can be a starting point of a new [Scaloid](https://github.com/pocorall/scaloid) project.
-
-This contains minimum code as possible; therefore easy to run, examine and extend.
+Free Tether is an android 4.1+ app that makes possible using tethering when carrier plan that doesn’t include it.
 
 Prerequisites
 -------------
