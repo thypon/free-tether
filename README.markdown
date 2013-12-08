@@ -1,6 +1,6 @@
 # Free Tether
 
-Free Tether is an android 4.1+ app that makes possible using tethering when carrier plan that doesn’t include it. Needs Root.
+Free Tether is an android 4.1+ app that makes possible using tethering whit carrier plan that doesn’t include it. Needs Root.
 
 Prerequisites
 -------------
