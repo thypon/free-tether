@@ -10,7 +10,7 @@ import lombok.extern.apachecommons.CommonsLog;
 @Value(staticConstructor = "of")
 @CommonsLog
 @ExtensionMethod(Contexts.class)
-public class AccessPoint {
+public final class AccessPoint {
     Context context;
 
     @Getter(lazy = true, value = AccessLevel.PRIVATE) private final

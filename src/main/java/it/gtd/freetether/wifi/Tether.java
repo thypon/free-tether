@@ -6,7 +6,7 @@ import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 
 @RequiredArgsConstructor(access = AccessLevel.PRIVATE)
-public class Tether {
+public final class Tether {
     @Getter(lazy = true) private static final Tether instance = new Tether();
 
     public boolean unlock() {
